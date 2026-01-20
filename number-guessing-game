@@ -1,0 +1,7 @@
+Add Number Guessing Game project
+Fix bug in Tip Calculator bill splitting
+Add error handling to Tip Calculator
+Update README.md for Tip Calculator
+git add number_guessing_game.py   # stage your file
+git commit -m "Add Number Guessing Game project"   # commit with message
+git push origin main   # upload to GitHub
